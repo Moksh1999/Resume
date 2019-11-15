@@ -1,0 +1,55 @@
+body
+{
+    line-height: 1.6;
+    margin: 0;
+    min-height: 100vh;
+
+}
+
+.uppernav
+{
+  text-align: center;
+  background-color: rgb(0, 153, 153);
+  height: 60px;
+  width: 100%;
+}
+
+.uppernav h1
+{
+    color: white;
+}
+
+.left
+{
+  float: left;
+  width: 300px;
+  background-color: rgb(0, 153, 153);
+  height: 100;
+}
+
+.left h1
+{
+  margin-left: 50px;
+}
+
+.left h2,h3,p
+{
+  margin-left: 50px;
+}
+
+.left img
+{
+  margin-left: 29px;
+  margin-top: 50px;
+}
+
+
+.right
+{
+  float: right;
+}
+
+.right h3,p
+{
+  margin-right: 500px;
+}
